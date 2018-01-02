@@ -1,7 +1,7 @@
 # TexMex
 A Texas Poker Simulator
 ## Author
-Shengyao Guo      s8guo@eng.ucsd.edu
+Shengyao Guo     <br />   s8guo@eng.ucsd.edu
 
 ## Abstract
 Our work provides a simulator for the famous Texas Hold’em poker game along with a probability estimator which shows the probability of getting any types of hand. 
